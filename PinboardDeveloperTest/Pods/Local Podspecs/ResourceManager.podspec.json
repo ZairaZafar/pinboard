@@ -1,0 +1,22 @@
+{
+  "name": "ResourceManager",
+  "version": "0.0.1",
+  "summary": "A generic library used to fetch/download remote resources of any type and cache them efficiently in memory.",
+  "description": "This library has been made as a part of a developer test for company.",
+  "homepage": "http://github/zairazafar/ResourceManager",
+  "license": "MIT",
+  "authors": {
+    "Zaira Zafar": "zaira.zafar@venturedive.com"
+  },
+  "source": {
+    "git": ".",
+    "tag": "0.0.1"
+  },
+  "source_files": "ResourceManager",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

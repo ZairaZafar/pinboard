@@ -1,0 +1,16 @@
+PODS:
+  - ResourceManager (0.0.1)
+
+DEPENDENCIES:
+  - ResourceManager (from `../ResourceManager`)
+
+EXTERNAL SOURCES:
+  ResourceManager:
+    :path: "../ResourceManager"
+
+SPEC CHECKSUMS:
+  ResourceManager: bb3577a98f27c1965ff13e87456bd34f057ecbd2
+
+PODFILE CHECKSUM: 639c4c0f310dbb8075398f3795f289d09d5e8230
+
+COCOAPODS: 1.6.1

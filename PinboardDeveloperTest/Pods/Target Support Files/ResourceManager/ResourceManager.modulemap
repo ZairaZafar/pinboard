@@ -1,0 +1,6 @@
+framework module ResourceManager {
+  umbrella header "ResourceManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
