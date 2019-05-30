@@ -6,7 +6,7 @@ NOTE: ResourceManager framework is uploaded separately in case the reviewer deci
 
 ## Project Structure
 
-- **PinboardDeveloperTest**: contains the implementation of the actual framework, which it ingests through pods. The mini implementation consists of a collection view that displays images and when tapped on the image, it takes to detail view of the image using TransistionDelegates. On reaching the end of the collection view, more images are lazy loaded (paginated collection view).
+- **PinboardDeveloperTest**: contains the implementation of the actual framework, which it ingests through pods. The mini implementation consists of a collection view that displays images and when tapped on the image, it takes to detail view of the image using TransitionDelegates. On reaching the end of the collection view, more images are lazy loaded (paginated collection view).
 - **ResourceManager (Framework)**: This framework performs the actual task which was required. It allows the user to fetch/download data without the worrysome details of networking. All the user needs to do is create an endpoint and hand it to API, which would either fetch from server or cache.
 
 
